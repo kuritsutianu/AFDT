@@ -1,0 +1,2 @@
+Este archivo fue creado porque no puedo tener carpetas vacías en GitHub, no es importante para el funcionamiento de la aplicación.
+Una vez tengas el programa descargado puedes borrar este archivo.
