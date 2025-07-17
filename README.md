@@ -1,6 +1,6 @@
 # AFDT - Herramienta de Análisis Forense
 
-AFDT (Automated Forensic Data Tool) es una herramienta de análisis forense diseñada para facilitar la investigación de imágenes de disco de sistemas operativos Windows. Permite realizar diversas comprobaciones y recuperaciones de datos asumiendo que la imagen forense ya está montada.
+AFDT (Anti Forensic Detection Tool) es una herramienta de análisis forense diseñada para facilitar la investigación de imágenes de disco de sistemas operativos Windows. Permite realizar diversas comprobaciones y recuperaciones de datos asumiendo que la imagen forense ya está montada.
 
 ## Funcionalidades
 
