@@ -20,7 +20,7 @@ Además, cuenta con una funcionalidad de **Carving** para la recuperación de ar
 
 ## Requisitos
 
-*   **Imagen Forense Montada**: La herramienta asume que la imagen forense de Windows ya está montada en la unidad `I:`.
+*   **Imagen Forense Montada**: La herramienta asume que la imagen forense de Windows ya está montada.
 *   **Privilegios de Administrador**: La aplicación debe ejecutarse con privilegios de administrador para poder acceder a ciertas áreas del sistema y realizar análisis forenses.
 *   **Herramientas Externas**: La herramienta utiliza `MFTECmd.exe` (para el análisis de la MFT) ubicada en la carpeta `tools/`.
 
@@ -31,10 +31,11 @@ Además, cuenta con una funcionalidad de **Carving** para la recuperación de ar
 
 2.  **Interfaz Principal**:
     *   **Campos de Fecha**: Introduce la "Fecha Inicio" y la "Fecha Fin" para el análisis en formato `YYYY-MM-DD HH:MM:SS`.
+    *   **Campo "Seleccionar letra"**: Introduce la letra de la unidad donde está montada la imagen forense.
     *   **Botón "Iniciar Análisis"**: Pulsa este botón para comenzar el análisis forense de la imagen montada en `I:`.
     *   **Botón "Carving"**: Pulsa este botón para iniciar la recuperación de archivos eliminados (JPG, PNG, EXE, PS1, TXT, PF, BAT).
     *   **Botón "Detener"**: Durante un análisis o carving en curso, puedes pulsar este botón para detener la ejecución. Se guardará el log temporal hasta ese punto.
-    *   **Botón "Acerca de"**: Muestra una pequeña ventana con información sobre el autor del software.
+    *   **Botón "Acerca de"**: Muestra una pequeña ventana con información sobre el autor del software y su versión.
 
 3.  **Logs y Archivos Recuperados**:
     *   Todos los resultados del análisis se mostrarán en el cuadro de texto de la interfaz.
@@ -46,4 +47,4 @@ Además, cuenta con una funcionalidad de **Carving** para la recuperación de ar
 ## Autor
 
 Software creado por Cristian Marcial Olivera Hidalgo.
-Versión 1.0
+Versión Final 1.0.1
