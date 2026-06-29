@@ -32,7 +32,7 @@ Además, cuenta con una funcionalidad de **Carving** para la recuperación de ar
 2.  **Interfaz Principal**:
     *   **Campos de Fecha**: Introduce la "Fecha Inicio" y la "Fecha Fin" para el análisis en formato `YYYY-MM-DD HH:MM:SS`.
     *   **Campo "Seleccionar letra"**: Introduce la letra de la unidad donde está montada la imagen forense.
-    *   **Botón "Iniciar Análisis"**: Pulsa este botón para comenzar el análisis forense de la imagen montada en `I:`.
+    *   **Botón "Iniciar Análisis"**: Pulsa este botón para comenzar el análisis forense de la imagen montada.
     *   **Botón "Carving"**: Pulsa este botón para iniciar la recuperación de archivos eliminados (JPG, PNG, EXE, PS1, TXT, PF, BAT).
     *   **Botón "Detener"**: Durante un análisis o carving en curso, puedes pulsar este botón para detener la ejecución. Se guardará el log temporal hasta ese punto.
     *   **Botón "Acerca de"**: Muestra una pequeña ventana con información sobre el autor del software y su versión.
@@ -48,7 +48,7 @@ Además, cuenta con una funcionalidad de **Carving** para la recuperación de ar
 
 Software creado por Cristian Marcial Olivera Hidalgo.
 Versión Final 1.0.1
-¡Espero que AFDT sea de gran utilidad en tus labores de análisis forense!
+¡Espero que AFDT sea de utilidad en tus labores de análisis forense!
 
 ## Agradecimientos
 
